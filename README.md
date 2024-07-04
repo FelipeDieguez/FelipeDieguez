@@ -3,7 +3,7 @@ I am a Civil Engineer graduated from the State University of Londrina in 2023. C
 ## Toolbelt
 [![My Skills](https://skillicons.dev/icons?i=py,js,html,css,react,flask,mysql)](https://skillicons.dev)
 
-[About me!(https://felipedieguez.github.io])]
+(https://felipedieguez.github.io])[About me!]
 <!--
 **FelipeDieguez/FelipeDieguez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
